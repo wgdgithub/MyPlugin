@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\Definitions.RWTxt.h
+C:/Users/PC/Desktop/RWTxt/HostProject/Plugins/RWTxt/Intermediate/Build/Win64/UE4Editor/Inc/RWTxt/RWTxt.init.gen.cpp
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Users/PC/Desktop/RWTxt/HostProject/Plugins/RWTxt/Intermediate/Build/Win64/UE4Editor/Inc/RWTxt/RWTxtBPLibrary.gen.cpp
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Source\RWTxt/Public/RWTxtBPLibrary.h
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Inc\RWTxt\RWTxtBPLibrary.generated.h

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RWTxt.cpp.obj": [
+			"RWTxt.cpp.obj",
+			"RWTxtBPLibrary.cpp.obj"
+		],
+		"Module.RWTxt.gen.cpp.obj": [
+			"RWTxt.init.gen.cpp.obj",
+			"RWTxtBPLibrary.gen.cpp.obj"
+		]
+	}
+}

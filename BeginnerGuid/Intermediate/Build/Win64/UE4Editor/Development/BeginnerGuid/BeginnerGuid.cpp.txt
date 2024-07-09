@@ -1,0 +1,2 @@
+D:\UE4.27_Projects\Guid\Plugins\BeginnerGuid\Intermediate\Build\Win64\UE4Editor\Development\BeginnerGuid\Definitions.BeginnerGuid.h
+D:\UE4.27_Projects\Guid\Plugins\BeginnerGuid\Source\BeginnerGuid\Public\BeginnerGuid.h

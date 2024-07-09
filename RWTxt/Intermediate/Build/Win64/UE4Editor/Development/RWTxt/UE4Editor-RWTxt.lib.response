@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RWTxt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC\Desktop\RWTxt\HostProject\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\Module.RWTxt.cpp.obj"
+"C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\Module.RWTxt.gen.cpp.obj"
+"C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\Default.rc2.res"
+/OUT:"C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\UE4Editor-RWTxt.lib"

@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Development\RWTxt\Definitions.RWTxt.h
+C:/Users/PC/Desktop/RWTxt/HostProject/Plugins/RWTxt/Source/RWTxt/Private/RWTxt.cpp
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Source\RWTxt\Public\RWTxt.h
+C:/Users/PC/Desktop/RWTxt/HostProject/Plugins/RWTxt/Source/RWTxt/Private/RWTxtBPLibrary.cpp
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Source\RWTxt\Public\RWTxtBPLibrary.h
+C:\Users\PC\Desktop\RWTxt\HostProject\Plugins\RWTxt\Intermediate\Build\Win64\UE4Editor\Inc\RWTxt\RWTxtBPLibrary.generated.h

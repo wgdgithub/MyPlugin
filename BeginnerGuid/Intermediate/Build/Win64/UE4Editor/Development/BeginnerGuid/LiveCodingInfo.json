@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BeginnerGuid.cpp.obj": [
+			"BeginnerGuid.cpp.obj",
+			"BeginnerGuidUserWidget.cpp.obj"
+		],
+		"Module.BeginnerGuid.gen.cpp.obj": [
+			"BeginnerGuid.init.gen.cpp.obj",
+			"BeginnerGuidUserWidget.gen.cpp.obj"
+		]
+	}
+}
