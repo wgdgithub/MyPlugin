@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OperateVariableByReflection.cpp.obj": [
+			"OperateVariableByReflection.init.gen.cpp.obj",
+			"OperateVariableByReflectionBPLibrary.gen.cpp.obj",
+			"OperateVariableByReflection.cpp.obj",
+			"OperateVariableByReflectionBPLibrary.cpp.obj"
+		]
+	}
+}

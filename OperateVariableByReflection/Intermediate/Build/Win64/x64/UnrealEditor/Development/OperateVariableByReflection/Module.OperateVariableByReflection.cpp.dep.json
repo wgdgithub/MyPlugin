@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\operatevariablebyreflection\\module.operatevariablebyreflection.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5.4_projects\\r\\intermediate\\build\\win64\\x64\\reditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\operatevariablebyreflection\\definitions.operatevariablebyreflection.h",
+            "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\intermediate\\build\\win64\\unrealeditor\\inc\\operatevariablebyreflection\\uht\\operatevariablebyreflection.init.gen.cpp",
+            "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\intermediate\\build\\win64\\unrealeditor\\inc\\operatevariablebyreflection\\uht\\operatevariablebyreflectionbplibrary.gen.cpp",
+            "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\source\\operatevariablebyreflection\\public\\operatevariablebyreflectionbplibrary.h",
+            "d:\\ue5.4_projects\\r\\plugins\\operatevariablebyreflection\\intermediate\\build\\win64\\unrealeditor\\inc\\operatevariablebyreflection\\uht\\operatevariablebyreflectionbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
